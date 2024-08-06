@@ -1,31 +1,31 @@
-# Hello, I'm Komal Raut! 👋
+[![MasterHead](https://camo.githubusercontent.com/f3330d95cb132871349cba2edfd6cbd0939fbcb880053d1a438d4700e2e4e6fb/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://komal-m-raut.github.io/portfolio/)
+<h1 align="center">Hi 👋, I'm Komal Raut</h1>
+<h3 align="center">Eager tech explorer, passionate full stack developer from India</h3>
+<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" alt="Coding" width="400">
 
-I'm a Software Developer with a strong focus on web development technologies such as MERN stack, Next.js, Firebase, and TypeScript. I'm always eager to learn and implement the latest technologies in the web development sphere.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-m-raut&label=Profile%20views&color=0e75b6&style=flat" alt="komal-m-raut" /> </p>
 
-## 🔭 Current Work
+- 🌱 I’m currently learning **Three.js- For 3D graphics on the web**
 
-I'm currently juggling multiple projects, each with a unique tech stack. My work involves enhancing features and improving user experience across these projects.
+- 💬 Ask me about **MERN Stack**
 
-## 🌱 Skills and Learning
+- 📫 How to reach me **komalraut4762@gmail.com**
 
-My primary languages are JavaScript, TypeScript, and the MERN stack (MongoDB, Express.js, React.js, Node.js). I also have experience with Next.js and Firebase. I'm constantly exploring optimized methods and the latest trends in these technologies.
+- 📄 Know about my experiences [https://drive.google.com/file/d/15QIMaoNJahsWYTuMx2ssxIaS9DRJvY0G/view](https://drive.google.com/file/d/15QIMaoNJahsWYTuMx2ssxIaS9DRJvY0G/view)
 
-## 🏆 Projects
+- ⚡ Fun fact **When not coding, I love exploring the outdoors.**
 
-I've worked on numerous projects simultaneously, each with a different stack. Two of my notable projects are CRM systems - one built with Next.js and Firebase, and the other with the MERN stack. Another significant project was a temperature monitoring system built with Next.js, MongoDB, InfluxDB, and WebSockets.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/komalr29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalr29" height="30" width="40" /></a>
+<a href="https://instagram.com/komalraut99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komalraut99" height="30" width="40" /></a>
+</p>
 
-## 🎯 Goals
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-My professional goal is to stay at the forefront of web development technology. I strive to learn something new every day and apply it to my work, ensuring that I'm always up-to-date with the latest trends and best practices.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komal-m-raut&show_icons=true&locale=en&layout=compact" alt="komal-m-raut" /></p>
 
-## 📫 How to reach me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komal-m-raut&show_icons=true&locale=en" alt="komal-m-raut" /></p>
 
-You can reach me through LinkedIn at [Komal Raut](https://www.linkedin.com/in/komalr29/). You can also email me at [komalraut4762@gmail.com](mailto:komalraut4762@gmail.com) for more information.
-
-## ⚡ Fun facts
-
-When I'm not immersed in code, I love exploring the outdoors. Additionally, I have a passion for cooking and love experimenting with different recipes.
-
-## 🔍 Additional Information
-
-I believe in the power of collaboration. I'm always open to working on new projects and ideas. Feel free to reach out if you want to collaborate or need help with your projects.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-m-raut&" alt="komal-m-raut" /></p>
