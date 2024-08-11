@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack, Next JS**
 
 - 📫 How to reach me **komalraut4762@gmail.com**
 
