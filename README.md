@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **MERN Stack, Next JS**
 
+- 📝 I regularly write articles on [Medium](https://komalmraut.medium.com/)
+
 - 📫 How to reach me **komalraut4762@gmail.com**
 
 - 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/15QIMaoNJahsWYTuMx2ssxIaS9DRJvY0G/view)
@@ -19,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/komalr29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalr29" height="30" width="40" /></a>
 <a href="https://instagram.com/komalraut99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="komalraut99" height="30" width="40" /></a>
+<a href="https://medium.com/@komalmraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@komalmraut" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
