@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/f3330d95cb132871349cba2edfd6cbd0939fbcb880053d1a438d4700e2e4e6fb/68747470733a2f2f7777772e6469676974616c61646c656374696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://komal-m-raut.github.io/portfolio/)
+[![MasterHead](https://assets.about.me/background/users/o/p/e/opediatechnology_1683870687_173.jpg)](https://komal-m-raut.github.io/portfolio/)
 <h1 align="center">Hi 👋, I'm Komal Raut</h1>
 <h3 align="center">Eager tech explorer, passionate full stack developer from India</h3>
 <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" alt="Coding" width="400">
