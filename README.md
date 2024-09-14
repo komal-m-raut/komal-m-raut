@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-m-raut&label=Profile%20views&color=0e75b6&style=flat" alt="komal-m-raut" /> </p>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **MERN Stack, Next JS**
 
