@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **MERN Stack, Next JS**
+- 💬 Ask me about **MERN Stack, Next JS, Firebase**
 
 - 📝 I regularly write articles on [Medium](https://komalmraut.medium.com/)
 
