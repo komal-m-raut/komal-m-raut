@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **komalraut4762@gmail.com**
 
-- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/15QIMaoNJahsWYTuMx2ssxIaS9DRJvY0G/view)
+- 📄 Know about my experiences [My-Resume](https://drive.google.com/file/d/15QIMaoNJahsWYTuMx2ssxIaS9DRJvY0G/view?usp=drive_link)
 
 - ⚡ Fun fact **When not coding, I love exploring the outdoors.**
 
